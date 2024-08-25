@@ -2,7 +2,7 @@
 
 I'm super new to GitHub and all things code, but am keen to learn. My big interest is data science, and I'm working on a maths degree in my free time. I'm all about the numbers :-)
 
-Just signed up to do the CodeFirstGirls Data Sceince degree, and I'm both terrified and excited in equal measure!
+Just signed up to do the CodeFirstGirls Data Science degree, and I'm both terrified and excited in equal measure!
 
 
 
